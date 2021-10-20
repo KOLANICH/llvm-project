@@ -144,11 +144,11 @@ symbols:
 # I386-CUSTOM-HEADER-NEXT:  ImageBase: 0x400000
 # I386-CUSTOM-HEADER-NEXT:  SectionAlignment: 4096
 # I386-CUSTOM-HEADER-NEXT:  FileAlignment: 512
-# I386-CUSTOM-HEADER-NEXT:  MajorOperatingSystemVersion: 6
+# I386-CUSTOM-HEADER-NEXT:  MajorOperatingSystemVersion: 4
 # I386-CUSTOM-HEADER-NEXT:  MinorOperatingSystemVersion: 0
 # I386-CUSTOM-HEADER-NEXT:  MajorImageVersion: 0
 # I386-CUSTOM-HEADER-NEXT:  MinorImageVersion: 0
-# I386-CUSTOM-HEADER-NEXT:  MajorSubsystemVersion: 6
+# I386-CUSTOM-HEADER-NEXT:  MajorSubsystemVersion: 4
 # I386-CUSTOM-HEADER-NEXT:  MinorSubsystemVersion: 0
 # I386-CUSTOM-HEADER-NEXT:  SizeOfImage: 4096
 # I386-CUSTOM-HEADER-NEXT:  SizeOfHeaders: 512
@@ -225,11 +225,11 @@ OptionalHeader:
   ImageBase:       4194304
   SectionAlignment: 4096
   FileAlignment:   512
-  MajorOperatingSystemVersion: 6
+  MajorOperatingSystemVersion: 4
   MinorOperatingSystemVersion: 0
   MajorImageVersion: 0
   MinorImageVersion: 0
-  MajorSubsystemVersion: 6
+  MajorSubsystemVersion: 4
   MinorSubsystemVersion: 0
   Subsystem:       IMAGE_SUBSYSTEM_WINDOWS_CUI
   DLLCharacteristics: [ IMAGE_DLL_CHARACTERISTICS_DYNAMIC_BASE, IMAGE_DLL_CHARACTERISTICS_NX_COMPAT, IMAGE_DLL_CHARACTERISTICS_TERMINAL_SERVER_AWARE ]
